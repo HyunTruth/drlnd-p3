@@ -51,7 +51,7 @@ The code is written in PyTorch and Python 3.6. I trained the agents using the Ud
 
 ### Code Description
 
-The environment described above was solved using an actor-critic algorithm, specifically the multi-agent deep deterministic policy gradient (DDPG) method. All of the files below can be found in the code folder.
+The environment described above was solved using an actor-critic algorithm, specifically the multi-agent deep deterministic policy gradient (DDPG) method. All of the files below can be found in the repo.
 
 #### Module Descriptions
 
