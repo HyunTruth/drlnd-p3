@@ -1,5 +1,5 @@
 ## Udacity Deep Reinforcement Learning Nanodegree 
-## Project 2: Continuous Control
+## Project 3: Collaboration and Competition
 
 ### Description of Environment
 
